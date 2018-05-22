@@ -1,0 +1,14 @@
+@media only screen and (max-width: 980px), only screen and (max-device-width: 980px) {
+  header h2 {
+    font-size: 60px;
+  }
+
+  header {
+    padding: 120px 10% 120px 5%;
+    font-size: 25px;
+  }
+  
+  .box h2 {
+    font-size: 25px;
+  }
+}
